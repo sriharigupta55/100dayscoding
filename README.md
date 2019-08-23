@@ -35,3 +35,5 @@
 18)[ Digit in Number](5.d.md)
 
 19)[JugsMugsPugs Lite](3.s.md)
+
+20)[JugsMugsPugsPlus](3.u.md)
