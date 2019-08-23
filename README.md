@@ -19,3 +19,5 @@
 10)[Sum of digits](2.5.md)
 
 11)[ Odd or even](3.1.md)
+
+12)[Minimum of three numbers](3.8.md)
