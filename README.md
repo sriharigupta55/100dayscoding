@@ -43,3 +43,5 @@
 22)[Sum of factorials](4.8.md)
 
 23)[Sum of cubes](4.5.md)
+
+24)[sum of N numbers](4.4.md)
