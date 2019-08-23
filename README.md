@@ -15,3 +15,5 @@
 8)[Two timestamps](1.7.md)
 
 9)[TwoPoints](1.8.md)
+
+10)[Sum of digits](2.5.md)
