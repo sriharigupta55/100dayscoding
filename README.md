@@ -39,3 +39,5 @@
 20)[JugsMugsPugsPlus](3.u.md)
 
 21)[JugsMugsPugsPlus Reverse](3.v.md)
+
+22)[Sum of factorials](4.8.md)
