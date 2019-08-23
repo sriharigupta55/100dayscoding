@@ -9,3 +9,5 @@
 5)[Level 10](0.1.md)
 
 6)[ Apple sharing](1.5.md)
+
+7)[Hours and minutes](1.6.md)
