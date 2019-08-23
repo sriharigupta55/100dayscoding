@@ -7,3 +7,5 @@
 4)[ Previous and next](1.4.md)
 
 5)[Level 10](0.1.md)
+
+6)[ Apple sharing](1.5.md)
