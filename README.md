@@ -45,3 +45,5 @@
 23)[Sum of cubes](4.5.md)
 
 24)[sum of N numbers](4.4.md)
+
+25)[ladder](4.a.md)
