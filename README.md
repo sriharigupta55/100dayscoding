@@ -17,3 +17,5 @@
 9)[TwoPoints](1.8.md)
 
 10)[Sum of digits](2.5.md)
+
+11)[ Odd or even](3.1.md)
