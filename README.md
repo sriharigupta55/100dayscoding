@@ -13,3 +13,5 @@
 7)[Hours and minutes](1.6.md)
 
 8)[Two timestamps](1.7.md)
+
+9)[TwoPoints](1.8.md)
