@@ -37,3 +37,5 @@
 19)[JugsMugsPugs Lite](3.s.md)
 
 20)[JugsMugsPugsPlus](3.u.md)
+
+21)[JugsMugsPugsPlus Reverse](3.v.md)
