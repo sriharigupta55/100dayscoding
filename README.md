@@ -31,3 +31,5 @@
 16)[Jugs for Three](3.p.md)
 
 17)[JugsMugsPugs](3.r.md)
+
+18)[ Digit in Number](5.d.md)
