@@ -29,3 +29,5 @@
 15)[Mugs for Five](3.q.md)
 
 16)[Jugs for Three](3.p.md)
+
+17)[JugsMugsPugs](3.r.md)
