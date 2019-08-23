@@ -33,3 +33,5 @@
 17)[JugsMugsPugs](3.r.md)
 
 18)[ Digit in Number](5.d.md)
+
+19)[JugsMugsPugs Lite](3.s.md)
