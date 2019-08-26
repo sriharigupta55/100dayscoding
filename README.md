@@ -53,3 +53,5 @@
 27)[Second maximum](6.c.md)
 
 28)[INTERVIEW GRADE](3.w.md)
+
+29)[INTERVIEW GRADE PROBLEM](3.x.md)
