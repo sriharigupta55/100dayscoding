@@ -47,3 +47,5 @@
 24)[sum of N numbers](4.4.md)
 
 25)[ladder](4.a.md)
+
+26)[Lost card](4.9.md)
