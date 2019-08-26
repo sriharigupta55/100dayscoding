@@ -57,3 +57,5 @@
 29)[INTERVIEW GRADE PROBLEM](3.x.md)
 
 30)[Spy Plane](4.x.md)
+
+31)[Strings: Slices](5.1.md)
