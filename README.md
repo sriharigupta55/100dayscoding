@@ -59,3 +59,5 @@
 30)[Spy Plane](4.x.md)
 
 31)[Strings: Slices](5.1.md)
+
+32)[Strings: Reverse fragment](5.8.md)
