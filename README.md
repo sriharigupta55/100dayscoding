@@ -61,3 +61,5 @@
 31)[Strings: Slices](5.1.md)
 
 32)[Strings: Reverse fragment](5.8.md)
+
+33)[Strings: Remove fragment](5.7.md)
