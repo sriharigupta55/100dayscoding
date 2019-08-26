@@ -49,3 +49,5 @@
 25)[ladder](4.a.md)
 
 26)[Lost card](4.9.md)
+
+27)[Second maximum](6.c.md)
